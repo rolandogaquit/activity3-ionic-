@@ -1,0 +1,25 @@
+#container {
+    text-align: center;
+    border: 2px black;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 10%;
+    background-color:rgb(20, 58, 83);
+    height: 85%;
+    margin-left: 10%;
+    margin-right: 20%;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 20px;
+  }
+  .img{
+    border-radius: 50%;
+  }
+  #container p {
+    font-size: 15px;
+    line-height: 22px;
+    color: black;
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
